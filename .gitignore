@@ -1,0 +1,9 @@
+.vscode/
+src/.ipynb_checkpoints/
+src/backup/
+src/relatorios/
+venv/
+src/dados/csv/remuneracao/dwsiape/*
+*.env
+src/*.csv
+src/sispag/queries.py
